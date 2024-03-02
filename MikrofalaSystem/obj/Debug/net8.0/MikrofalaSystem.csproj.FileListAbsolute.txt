@@ -1,0 +1,14 @@
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\bin\Debug\net8.0\MikrofalaSystem.exe
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\bin\Debug\net8.0\MikrofalaSystem.deps.json
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\bin\Debug\net8.0\MikrofalaSystem.runtimeconfig.json
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\bin\Debug\net8.0\MikrofalaSystem.dll
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\bin\Debug\net8.0\MikrofalaSystem.pdb
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\obj\Debug\net8.0\MikrofalaSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\obj\Debug\net8.0\MikrofalaSystem.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\obj\Debug\net8.0\MikrofalaSystem.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\obj\Debug\net8.0\MikrofalaSystem.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\obj\Debug\net8.0\MikrofalaSystem.dll
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\obj\Debug\net8.0\refint\MikrofalaSystem.dll
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\obj\Debug\net8.0\MikrofalaSystem.pdb
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\obj\Debug\net8.0\MikrofalaSystem.genruntimeconfig.cache
+C:\Users\Kuba\Desktop\studia\III sem\Programowanie obiektowe\Projekt\Gotowy\MikrofalaSystem\obj\Debug\net8.0\ref\MikrofalaSystem.dll
